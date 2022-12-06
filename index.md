@@ -18,6 +18,5 @@ My GitHub page is http://github.com/Suanna0323.
     I like the interaction between programmer and user, I like every code that required user to input a value, it's like communicating to our computer. It feels like I'm no longer talking to a machine, but instead a live creature. A friendly one.
 #### Lab 8
     Part-1 is basically my favorite (not really actually, it took me long to figure out). We had to read the .txt inside our files, input the text inside, to see if the word is a palindrome or not. It could be an useful technique in the future, like searching for cerain keywords inside my txt file. (Who knows? If searching wors is avaliable, why not certain sentence?(Can't think of an example, sorry)).
-<a href="https://www.youtube.com/watch?v=Ey_NHZNYTeE" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
     
