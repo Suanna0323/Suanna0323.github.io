@@ -10,7 +10,7 @@ My GitHub page is http://github.com/Suanna0323.
 
 ### CPSC 120
 
-* Lab 10 
+#### Lab 10 
     Part-3 is my favorite of all. It is out first time to encounter using Magick++. COLORS has finally been added into our code, it makes the project we're doing no longer in "black and white", in letters. It's a whole new thing to me, to create images on  computer. We have to create everything, every bit of color by ourselves, unlike using a drawing sofrware, randomly colors our pages and upload the image. It was amazing, I understood how difficult it was to print colors. 
 * Lab 3
     I made a friend (my partner) when doing this lab, she is a nice person. We talked a lot, hopefullly I'll meet her next semester. 
