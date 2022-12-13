@@ -6,7 +6,7 @@ Nice to meet you (happy.png)
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/Suanna0323.
+My GitHub page is http://github.com/Suanna0323 .
 
 ### CPSC 120
 
