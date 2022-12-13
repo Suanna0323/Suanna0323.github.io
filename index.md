@@ -2,11 +2,11 @@
 
 This is my home page! My name is Suanna Shih and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is computer science.
 
-Nice to meet you (happy.png)
+Nice to meet you :)
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/Suanna0323 .
+My GitHub page is http://github.com/Suanna0323.
 
 ### CPSC 120
 
