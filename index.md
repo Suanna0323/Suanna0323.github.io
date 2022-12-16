@@ -6,7 +6,7 @@ Nice to meet you :)
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/uanna0323.
+My GitHub page is http://github.com/suanna0323.
 
 ### CPSC 120
 
